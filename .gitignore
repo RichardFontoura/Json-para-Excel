@@ -1,0 +1,6 @@
+
+/Win32
+/Model/__history
+/View/__history
+*.local
+*.identcache
